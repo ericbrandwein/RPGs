@@ -1,0 +1,3 @@
+[submodule "rolito"]
+	path = rolito
+	url = git@github.com:ericbrandwein/rolito.git
